@@ -1,0 +1,2 @@
+# cool-bot
+discord bot
